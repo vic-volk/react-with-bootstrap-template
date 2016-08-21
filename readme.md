@@ -13,6 +13,8 @@ npm start
 ```
 
 ## References
-https://react-bootstrap.github.io/getting-started.html
-https://www.twilio.com/blog/2015/08/setting-up-react-for-es6-with-webpack-and-babel-2.html
-https://webpack.github.io/docs/webpack-dev-server.html
+React-Bootstrap project home: [React-Bootstrap](https://react-bootstrap.github.io/getting-started.html)
+
+Setting up React for ES6 with Webpack and Babel: [Twilio blog](https://www.twilio.com/blog/2015/08/setting-up-react-for-es6-with-webpack-and-babel-2.html)
+
+Webpack dev server doc: [webpack dev server GitHub](https://webpack.github.io/docs/webpack-dev-server.html)
