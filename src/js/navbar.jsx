@@ -10,7 +10,7 @@ import MenuItem from 'react-bootstrap/lib/MenuItem';
  
 class CustomNavbar extends React.Component {
   render() {
-    return <Navbar inverse>
+    return <Navbar>
     <Navbar.Header>
       <Navbar.Brand>
         <a href="#">React with bootstrap</a>

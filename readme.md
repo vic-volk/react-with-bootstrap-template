@@ -9,6 +9,7 @@ Assembly configured with webpack.
 ```bash
 git clone https://github.com/vic-volk/react-with-bootstrap-template.git
 cd react-with-bootstrap-template 
+npm install webpack-dev-server -g
 npm install
 npm start
 ```
